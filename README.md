@@ -1,4 +1,4 @@
-# To Do List (text disappear) (Divided into Components)
+# To Do List (text disappear)
 To-Do List-Advance 📄 is a React App which lets you add your daily tasks so that you don't need to remember them in your brains. 😅
 
 It is made using some concepts of **Vanilla JavaScript**, **ECMAScript 6** and **React.js** such Event Handling, Spread (...) Operator, Ternary Operator, Arrow function map() & filter() methods of array, useState() Hook and Controlled Form Component.
